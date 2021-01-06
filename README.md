@@ -1,3 +1,3 @@
-# Covid19Dashboard
+# Rshiny
 
 rshinydashboard
